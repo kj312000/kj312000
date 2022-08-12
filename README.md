@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kj312000
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend web development
+- 👀 Passionate Web Dev :)
+- 🌱 React Express MongoDb SQl NodeJs Solidity ReactNative .....
 - 📫 How to reach me mail:kaustubhjadhav36@gmail.com
 
 <!---
