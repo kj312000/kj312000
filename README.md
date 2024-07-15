@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kj312000
 - 👀 Passionate Web Dev :)
-- 🌱 React Express MongoDb SQl NodeJs Solidity ReactNative .....
+- 🌱 MERN / MEAN Developer
 - 📫 How to reach me mail:kaustubhjadhav36@gmail.com
 
 <!---
